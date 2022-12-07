@@ -1,7 +1,5 @@
 # Blog-em Ipsum
 
-### A React App for the Udemy course "React Query: Server State Management for React"
-
 ## Installation
 
 Run `npm install`
